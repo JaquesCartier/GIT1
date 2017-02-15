@@ -6,4 +6,4 @@ myElement.getAttribute(TextMetrics);
 myElement.setAttribute(TextMetrics) = 150;
 
 var myElement = $("#nextStep");
-myElement.text("This appears to be useless code, darn it!");
+myElement.text("Insert text here");
