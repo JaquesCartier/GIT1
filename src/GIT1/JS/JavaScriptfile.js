@@ -1,5 +1,5 @@
 ﻿var myElement = document.getElementById("nextStep");
-MyElement.innerHTML = "Branch4";
+MyElement.innerHTML = "Branch1";
 
 var myElement = document.getElementById("nextStep");
 myElement.getAttribute(TextMetrics);
